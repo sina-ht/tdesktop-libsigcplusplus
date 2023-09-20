@@ -1,6 +1,6 @@
 [wrap-git]
 directory=mm-common
-url=https://gitlab.gnome.org/GNOME/mm-common.git
+url=https://github.com/GNOME/mm-common.git
 revision=master
 depth=1
 
